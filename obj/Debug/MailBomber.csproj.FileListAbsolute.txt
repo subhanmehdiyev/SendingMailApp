@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\MailBomber\MailBomber\bin\Debug\MailBomber.exe.config
+C:\Users\User\source\repos\MailBomber\MailBomber\bin\Debug\MailBomber.exe
+C:\Users\User\source\repos\MailBomber\MailBomber\bin\Debug\MailBomber.pdb
+C:\Users\User\source\repos\MailBomber\MailBomber\obj\Debug\MailBomber.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MailBomber\MailBomber\obj\Debug\MailBomber.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MailBomber\MailBomber\obj\Debug\MailBomber.exe
+C:\Users\User\source\repos\MailBomber\MailBomber\obj\Debug\MailBomber.pdb

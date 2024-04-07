@@ -5,3 +5,10 @@ C:\Users\User\source\repos\MailBomber\MailBomber\obj\Debug\MailBomber.csproj.Ass
 C:\Users\User\source\repos\MailBomber\MailBomber\obj\Debug\MailBomber.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\MailBomber\MailBomber\obj\Debug\MailBomber.exe
 C:\Users\User\source\repos\MailBomber\MailBomber\obj\Debug\MailBomber.pdb
+C:\Users\User\source\repos\MailBomber\MailBomber\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\User\source\repos\MailBomber\MailBomber\bin\Debug\ExcelDataReader.dll
+C:\Users\User\source\repos\MailBomber\MailBomber\bin\Debug\ExcelDataReader.pdb
+C:\Users\User\source\repos\MailBomber\MailBomber\bin\Debug\ExcelDataReader.xml
+C:\Users\User\source\repos\MailBomber\MailBomber\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\User\source\repos\MailBomber\MailBomber\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\User\source\repos\MailBomber\MailBomber\obj\Debug\MailBomber.csproj.CopyComplete
